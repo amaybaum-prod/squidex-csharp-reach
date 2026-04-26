@@ -43,7 +43,7 @@
     "image-focus": "1.2.1",
     "leaflet": "1.9.4",
     "leaflet-control-geocoder": "2.4.0",
-    "marked": "12.0.2",
+    "marked": "18.0.2",
     "mersenne-twister": "1.1.0",
     "mousetrap": "1.6.5",
     "ng2-charts": "^6.0.1",

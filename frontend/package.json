@@ -25,7 +25,7 @@
     "@angular/platform-browser": "18.0.1",
     "@angular/platform-browser-dynamic": "18.0.1",
     "@angular/platform-server": "18.0.1",
-    "@angular/router": "18.0.1",
+    "@angular/router": "20.3.33",
     "@egjs/hammerjs": "2.0.17",
     "@floating-ui/dom": "^1.6.5",
     "@graphiql/toolkit": "^0.9.1",
